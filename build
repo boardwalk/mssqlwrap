@@ -1,0 +1,3 @@
+#!/bin/sh
+set -xv
+gcc -Wall -std=c99 -o mssql-wrap mssql-wrap.c
